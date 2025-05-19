@@ -1,5 +1,9 @@
 ---
-![Fighter Jet Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Patrulla_%C3%81guila_in_formation_flight_with_the_Flying_Bulls.jpg/640px-Patrulla_%C3%81guila_in_formation_flight_with_the_Flying_Bulls.jpg)
+![Fighter Jet Banner]<!-- Full-width fighter jet banner -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Patrulla_%C3%81guila_in_formation_flight_with_the_Flying_Bulls.jpg/640px-Patrulla_%C3%81guila_in_formation_flight_with_the_Flying_Bulls.jpg" style="width:100%;" />
+
+
+
 
 <h1 align="center">✈️ Fighter Jet Classification using Deep Learning</h1>
 <p align="center">
