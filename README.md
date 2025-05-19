@@ -45,7 +45,7 @@ Traditional computer vision struggles with fine-grained aircraft differences. Fi
 - Generalize across angles, lighting, and resolutions.
 - Provide **high classification accuracy**.
 
-![Jet Silhouettes](https://upload.wikimedia.org/wikipedia/commons/3/37/Jet_fighter_silhouettes.png)
+![Jet Silhouettes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/US_Navy_040603-N-9769P-275_An_F-14D_Tomcat_sits_on_the_flight_deck_aboard_USS_John_C._Stennis_%28CVN_74%29_as_the_setting_sun_silhouettes_the_jet.jpg/640px-US_Navy_040603-N-9769P-275_An_F-14D_Tomcat_sits_on_the_flight_deck_aboard_USS_John_C._Stennis_%28CVN_74%29_as_the_setting_sun_silhouettes_the_jet.jpg)
 
 ---
 
@@ -97,7 +97,7 @@ D --> E[Top 3 Aircraft Classes + Scores]
 
 ## 🔍 Prediction Example
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/F-16_Jet.jpg" width="50%" alt="F-16 ">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/F_16_Jet%2C_Dutch_Air_Force%2C_Air14%2C_Payerne_17.jpg/640px-F_16_Jet%2C_Dutch_Air_Force%2C_Air14%2C_Payerne_17.jpg" width="50%" alt="F-16 ">
 </p>
 
 **Prediction Output:**
