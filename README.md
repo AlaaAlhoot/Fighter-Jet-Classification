@@ -1,5 +1,5 @@
 ---
-![Fighter Jet Banner](https://cdn.pixabay.com/photo/2017/03/20/22/41/aircraft-2168553_1280.jpg)
+![Fighter Jet Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Patrulla_%C3%81guila_in_formation_flight_with_the_Flying_Bulls.jpg/640px-Patrulla_%C3%81guila_in_formation_flight_with_the_Flying_Bulls.jpg)
 
 <h1 align="center">✈️ Fighter Jet Classification using Deep Learning</h1>
 <p align="center">
@@ -45,7 +45,7 @@ Traditional computer vision struggles with fine-grained aircraft differences. Fi
 - Generalize across angles, lighting, and resolutions.
 - Provide **high classification accuracy**.
 
-![Jet Silhouettes](https://upload.wikimedia.org/wikipedia/commons/3/37/Jet_fighter_silhouettes.png)
+![Jet Silhouettes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/US_Navy_040603-N-9769P-275_An_F-14D_Tomcat_sits_on_the_flight_deck_aboard_USS_John_C._Stennis_%28CVN_74%29_as_the_setting_sun_silhouettes_the_jet.jpg/640px-US_Navy_040603-N-9769P-275_An_F-14D_Tomcat_sits_on_the_flight_deck_aboard_USS_John_C._Stennis_%28CVN_74%29_as_the_setting_sun_silhouettes_the_jet.jpg)
 
 ---
 
@@ -93,17 +93,11 @@ D --> E[Top 3 Aircraft Classes + Scores]
 ✅ Final Model: **Fine-Tuned MobileNetV2**
 </details>
 
----
 
-## 📈 Training Progress
-### CNN Accuracy Over Epochs
-![CNN Accuracy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Training_curve.png/800px-Training_curve.png)
-
----
 
 ## 🔍 Prediction Example
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/F-16_Jet.jpg" width="50%" alt="F-16 Example">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/F_16_Jet%2C_Dutch_Air_Force%2C_Air14%2C_Payerne_17.jpg/640px-F_16_Jet%2C_Dutch_Air_Force%2C_Air14%2C_Payerne_17.jpg" width="50%" alt="F-16 Example">
 </p>
 
 **Prediction Output:**
@@ -148,26 +142,27 @@ jupyter notebook notebooks/Final_project.ipynb
 
 ## 📎 Files Overview
 ```
-├── notebooks/Final_project.ipynb
-├── models/ (not uploaded, see README)
-├── report/Fighter Jet Classification Report.pdf
-├── src/ (data preprocessing, training, utils)
-├── examples/ (sample jet images and expected outputs)
+├── Notebooks/Final_project.ipynb
+├── Report/Fighter Jet Classification Report.pdf
+├── Libraries/requirements.txt
+
 ```
 
 ---
 
 ## 🤝 Credits
-- **Prepared by:** Alaa Emad Al Hout (120233046)  
+- **Prepared by:** Alaa Emad Al Hout
+- **Id:** 120233046
 - **Supervisor:** Dr. Ashraf Younis Al-Maghari  
-- **Institution:** Islamic University of Gaza
+- **Department:** Postgraduate Studies - Information Technology  
+- **University:** Islamic University of Gaza
 
 ---
 
 ## 🌐 Links
 - 📂 [FGVC-Aircraft Dataset](https://www.kaggle.com/datasets/seryouxblaster764/fgvc-aircraft)
-- 📘 [PDF Report](./report/Fighter%20Jet%20Classification%20Report.pdf)
-- 🚀 Optional: [Live Colab Demo](https://colab.research.google.com/)
+- 📘 [PDF Report](Fighter Jet Classification Report.pdf)
+
 
 ---
 
@@ -177,8 +172,8 @@ jupyter notebook notebooks/Final_project.ipynb
 </p>
 
 **Alaa Emad Al Hout**  
-📧 [alaa@example.com](mailto:alaa@example.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+📧 [alaaalhoot74@gmail.com](mailto:alaaalhoot74@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/%D9%90alaaalhoot/) 
 
 ---
 
