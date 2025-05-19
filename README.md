@@ -161,7 +161,7 @@ jupyter notebook notebooks/Final_project.ipynb
 
 ## 🌐 Links
 - 📂 [FGVC-Aircraft Dataset](https://www.kaggle.com/datasets/seryouxblaster764/fgvc-aircraft)
-- 📘 [PDF Report](Fighter Jet Classification Report.pdf)
+- 📘 [PDF Report](https://github.com/AlaaAlhoot/Fighter-Jet-Classification/blob/main/Fighter%20Jet%20Classification%20Report.pdf)
 
 
 ---
